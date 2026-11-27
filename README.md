@@ -2,7 +2,7 @@
 Java OOP Lab 2nd Semester Project
 Group Members Rollno:
 1.(2K26/IT/39)
-1.(2K26/IT/20)
-1.(2K26/IT/25)
-1.(2K26/IT/38)
-1.(2K26/IT/23)
+2.(2K26/IT/20)
+3.(2K26/IT/25)
+4.(2K26/IT/38)
+5.(2K26/IT/23)
